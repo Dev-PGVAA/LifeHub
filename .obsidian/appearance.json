@@ -1,0 +1,12 @@
+{
+  "showRibbon": false,
+  "accentColor": "#96202d",
+  "cssTheme": "Baseline",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "translucency": true,
+  "showViewHeader": true
+}
